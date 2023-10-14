@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --xRed: rgb(197, 1, 1);
+  --oBlue: rgb(78, 19, 240);
+}
